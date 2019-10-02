@@ -17,7 +17,11 @@
     background-size:     cover;
 }
 
-
+@media only screen and (max-width: 400px) {
+  .tm-img-grid{
+    margin-left: 10%;
+  }
+}
 .wrapper{
   text-align: center;
 }
