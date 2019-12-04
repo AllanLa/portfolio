@@ -1,10 +1,16 @@
-.tm-logo{
+.tm-logo {
     border-radius: 50%;
+    width: 30%;
+    height: 30%;
 }
 
-.tm-gallery-img-container { 
-   position: relative; 
-   width: 100%; /* for IE 6 */
+.canada {
+   height: 100%
+}
+
+.tm-gallery-img-container {
+    position: relative;
+    width: 100%; /* for IE 6 */
 }
 
 .img-fluid-tm-gallery-img{
