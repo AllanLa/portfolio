@@ -1,3 +1,7 @@
+.canada {
+    margin-right: 20px;
+}
+
 .tm-logo {
     border-radius: 50%;
     width: 30%;
@@ -20,7 +24,7 @@
     background-size:     cover;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 500px) {
   .tm-img-grid{
     margin-left: 10%;
   }
