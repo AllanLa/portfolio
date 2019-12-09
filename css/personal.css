@@ -64,8 +64,16 @@ h3 span.spacer {
 }
 
 #tm-footer {
-height: 75px;
+bottom: 0;
+width: 100%;
 background: #1a1a1a;
+}
+
+#wayfair-footer {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    background: #1a1a1a;
 }
 
 #tm-footer-text {
