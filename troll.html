@@ -335,6 +335,7 @@ http://www.templatemo.com/tm-483-lumino
                  * https://css-tricks.com/snippets/jquery/smooth-scrolling/
                 --------------------------------------------------------------*/
                 $('a[href*="#"]:not([href="#"])').click(function () {
+                    document.getElementById('vid').play();
                     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
                         && location.hostname == this.hostname) {
 
